@@ -1,8 +1,8 @@
 ### chromoany
 
-CS undergraduate at **Shanghai University** — competitive programming and developer tooling.
+CS undergraduate at **Shanghai University**
 
-上海大学计算机专业在读，方向是算法竞赛与开发工具。
+上海大学计算机专业在读
 
 ---
 
