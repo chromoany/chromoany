@@ -14,9 +14,3 @@ CS undergraduate at **Shanghai University**
 | [**dsh-notify-me**](https://github.com/chromoany/dsh-notify-me) | Desktop notification plugin for DeepSeek Harness — system notifications, sound and tab-title alerts. |
 | [**icpc-regional-template**](https://github.com/chromoany/icpc-regional-template) | ICPC regional algorithm template library, with a print-ready A4 PDF. |
 | [**naiwa-icons**](https://github.com/chromoany/naiwa-icons) | Naiwa-style Android icon pack — icon set and generation spec. |
-
-#### Focus
-
-- **Competitive programming** — ICPC, Codeforces, AtCoder
-- **Developer tooling** — Electron, Node.js, Pandoc + Typst pipelines
-- **Icon & interface design**
