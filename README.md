@@ -1,48 +1,59 @@
 <div align="center">
-
-# chromoany
-
-CS undergraduate at **Shanghai University**  
-上海大学计算机专业在读
-
-`Developer tools` · `Android icons` · `Algorithms`
-
-[Explore repositories](https://github.com/chromoany?tab=repositories) · [Selected projects](#selected-projects)
-
+  <img src="./assets/profile-header.svg" alt="chromoany — Build useful things. Make them feel considered." width="100%">
 </div>
 
-## Selected projects
+## Hi, I'm chromoany.
 
-Original projects, ordered by GitHub stars.
+CS undergraduate at **Shanghai University**. I build tools that solve concrete problems, with a soft spot for offline-first software, thoughtful interfaces, and agent workflows.
 
-<!-- Selection: public, non-fork, non-archived projects; profile repository excluded.
-Reviewed 2026-10-19. Stars descending; ties by recent push, then repository name.
-Badges refresh independently. Project selection and order are maintained manually. -->
+上海大学计算机专业在读。写工具，也做图标；在开发项目之外持续训练算法与 ICPC。
 
-### 01 · [dsh-notify-me](https://github.com/chromoany/dsh-notify-me) [![GitHub stars](https://img.shields.io/github/stars/chromoany/dsh-notify-me?style=flat-square&label=stars&color=35b6bd)](https://github.com/chromoany/dsh-notify-me/stargazers)
+[Browse all repositories](https://github.com/chromoany?tab=repositories) · [Selected work](#selected-work)
 
-Notifications for DeepSeek Harness: system alerts, sound and tab-title reminders when you need to act or a reply finishes.
+## Selected work
 
-### 02 · [folio](https://github.com/chromoany/folio) [![GitHub stars](https://img.shields.io/github/stars/chromoany/folio?style=flat-square&label=stars&color=35b6bd)](https://github.com/chromoany/folio/stargazers)
-
-Turn Markdown into a book-style PDF with a real table of contents and page numbers. Fully offline, powered by Pandoc + Typst.
-
-### 03 · [naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app) [![GitHub stars](https://img.shields.io/github/stars/chromoany/naiwa-icons-app?style=flat-square&label=stars&color=35b6bd)](https://github.com/chromoany/naiwa-icons-app/stargazers)
-
-Naiwa Icons for Android: download the APK, apply the icon pack, or add individual home-screen shortcuts.
-
-### 04 · [naiwa-icons](https://github.com/chromoany/naiwa-icons) [![GitHub stars](https://img.shields.io/github/stars/chromoany/naiwa-icons?style=flat-square&label=stars&color=35b6bd)](https://github.com/chromoany/naiwa-icons/stargazers)
-
-The artwork behind Naiwa Icons: soft clay-style Android icons, design specifications and generation prompts.
-
-### 05 · [readme-atlas](https://github.com/chromoany/readme-atlas) [![GitHub stars](https://img.shields.io/github/stars/chromoany/readme-atlas?style=flat-square&label=stars&color=35b6bd)](https://github.com/chromoany/readme-atlas/stargazers)
-
-An agent skill for writing and improving project READMEs, informed by a study of 200 open-source projects.
-
-### 06 · [icpc-regional-template](https://github.com/chromoany/icpc-regional-template) [![GitHub stars](https://img.shields.io/github/stars/chromoany/icpc-regional-template?style=flat-square&label=stars&color=35b6bd)](https://github.com/chromoany/icpc-regional-template/stargazers)
-
-ICPC regional algorithm templates and a trick reference, with print-ready A4 PDFs.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chromoany/dsh-notify-me">dsh-notify-me</a></h3>
+      <p>System notifications, sound, and tab-title reminders when DSH needs your attention or finishes a reply.</p>
+      <p><code>JavaScript</code> <code>Agent workflow</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chromoany/folio">folio</a></h3>
+      <p>Turn Markdown into book-style PDFs with real tables of contents and page numbers. Fully offline, powered by Pandoc + Typst.</p>
+      <p><code>Electron</code> <code>Pandoc</code> <code>Typst</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chromoany/readme-atlas">readme-atlas</a></h3>
+      <p>An evidence-based agent skill for better project READMEs, distilled from a study of 200 open-source projects.</p>
+      <p><code>Python</code> <code>Agent skill</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chromoany/icpc-regional-template">icpc-regional-template</a></h3>
+      <p>ICPC regional algorithm templates and a trick reference, organized by topic and available as print-ready A4 PDFs.</p>
+      <p><code>C++</code> <code>Algorithms</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chromoany/naiwa-icons">naiwa-icons</a></h3>
+      <p>Soft clay-style Android icons, together with the design specifications and generation prompts behind the artwork.</p>
+      <p><code>Visual design</code> <code>Android</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chromoany/naiwa-icons-app">naiwa-icons-app</a></h3>
+      <p>The companion Android app and release hub for downloading, applying, and exploring Naiwa Icons.</p>
+      <p><code>Android</code> <code>Icon pack</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<sub>Each project has its own documentation, downloads and issue tracker. Follow a project link to get started.</sub>
+<div align="center">
+  <sub>Useful software. Thoughtful details. No unnecessary noise.</sub><br><br>
+  <a href="https://github.com/chromoany?tab=repositories">More experiments and works in progress →</a>
+</div>

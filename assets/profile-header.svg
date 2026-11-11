@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">chromoany — Build useful things. Make them feel considered.</title>
+  <desc id="desc">A dark teal profile banner for chromoany, covering developer tools, icon design and algorithms.</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1117"/>
+      <stop offset="58%" stop-color="#0E1820"/>
+      <stop offset="100%" stop-color="#10252A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8CF0DF"/>
+      <stop offset="100%" stop-color="#45C6C0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#48D8C8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#48D8C8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9DE8DC" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="338" rx="28" fill="url(#background)" stroke="#284049" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="338" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="168" rx="270" ry="250" fill="url(#glow)"/>
+
+  <rect x="64" y="52" width="34" height="4" rx="2" fill="url(#accent)"/>
+  <text x="112" y="61" fill="#8CF0DF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="5">CHROMOANY</text>
+
+  <text x="64" y="151" fill="#F2F7F7" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">Build useful things.</text>
+  <text x="64" y="213" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="45" font-weight="500" letter-spacing="-1">Make them feel considered.</text>
+
+  <text x="66" y="282" fill="#9BAFB4" font-family="Consolas, Courier New, monospace" font-size="16" letter-spacing="2">DEV TOOLS  /  ICON DESIGN  /  ALGORITHMS</text>
+
+  <g aria-hidden="true">
+    <circle cx="992" cy="168" r="112" fill="#0C151B" fill-opacity="0.72" stroke="#2B4850" stroke-width="1.5"/>
+    <circle cx="992" cy="168" r="84" fill="none" stroke="#3B6870" stroke-opacity="0.72" stroke-width="1.5" stroke-dasharray="3 10"/>
+    <path d="M1035 86 A94 94 0 1 0 1035 250" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M954 139 L926 168 L954 197" fill="none" stroke="#D8F7F1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1025 139 L1053 168 L1025 197" fill="none" stroke="#D8F7F1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="992" cy="168" r="7" fill="#8CF0DF"/>
+    <circle cx="1100" cy="94" r="4" fill="#8CF0DF"/>
+    <circle cx="887" cy="244" r="4" fill="#45C6C0"/>
+    <path d="M1095 236 V254 M1086 245 H1104" stroke="#54747B" stroke-width="2" stroke-linecap="round"/>
+    <path d="M879 82 V100 M870 91 H888" stroke="#54747B" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <text x="1134" y="302" text-anchor="end" fill="#6F898F" font-family="Consolas, Courier New, monospace" font-size="13" letter-spacing="1.5">SHANGHAI, CN</text>
+</svg>
